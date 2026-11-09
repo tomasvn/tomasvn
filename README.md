@@ -19,6 +19,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="40" />
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomasvn&show_icons=true&theme=onedark&title_color=03FC5E&text_color=03FC5E&bg_color=ffffff&cache_seconds=1800&locale=en" alt="tomasvn" /></p>
-
